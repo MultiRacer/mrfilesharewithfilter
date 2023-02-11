@@ -16,8 +16,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/AM-ROBOTS/AM-ROBOTS",
-    "repository": "https://github.com/AM-ROBOTS/AM-ROBOTS",
+    "website": "https://github.com/MultiRacer/smsfilterbotpro",
+    "repository": "https://github.com/MultiRacer/smsfilterbotpro",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
@@ -67,6 +67,14 @@
             "description": "Name of the collections. Defaults to Telegram_files. If you are using the same database, then use different collection name for each bot",
             "value": "Anurag_files",
             "required": false
+        },
+        "URL_SHORTENR_WEBSITE": {
+            "description": "Name of the collections. Defaults to Telegram_files. If you are using the same database, then use different collection name for each bot",
+            "required": true
+        },
+        "URL_SHORTNER_WEBSITE_API": {
+            "description": "Name of the collections. Defaults to Telegram_files. If you are using the same database, then use different collection name for each bot",
+            "required": true
         }
     },
     "addons": [],
@@ -76,7 +84,7 @@
     "formation": {
         "worker": {
             "quantity": 1,
-            "size": "free"
+            "size": "eco"
         }
     }
 }
