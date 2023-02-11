@@ -108,7 +108,7 @@ async def next_page(bot, query):
 
     btn.insert(0,
         [
-            InlineKeyboardButton(text="⚡ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ⚡", url='https://t.me/+dpOuXZGYWbA3ZGQ1')
+            InlineKeyboardButton(text="⚡ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ⚡", url='https://www.instagram.com/reel/ClEi0V0hCl9/?igshid=YmMyMTA2M2Y=')
         ]
     )
 
@@ -164,7 +164,7 @@ async def advantage_spoll_choker(bot, query):
             k = (movie, files, offset, total_results)
             await auto_filter(bot, query, k)
         else:
-            k = await query.message.edit('𝚃𝙷𝙸𝚂 𝙼𝙾𝚅𝙸𝙴 I𝚂 AVAILABLE IN MULTIRACER APP GO AND CHECK , IF ITS NOT AVAILABLE WAIT FOR OTT RELEASE 💌')
+            k = await query.message.edit('𝚃𝙷𝙸𝚂 𝙼𝙾𝚅𝙸𝙴 I𝚂 NOT AVAILABLE IN DATA BASE OR NOT REALISE 💌')
             await asyncio.sleep(10)
             await k.delete()
 
@@ -434,8 +434,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ], [
-            InlineKeyboardButton('⚡ SUBSCᏒIBΞ ⚡', url='https://t.me/Multi_Racer'),
-            InlineKeyboardButton('🤖 UᎮDΛTΞS 🤖', url='https://t.me/+I1KPJweHo81lY2M1')
+            InlineKeyboardButton('⚡ SUBSCᏒIBΞ ⚡', url='https://t.me/SMS_Zonee'),
+            InlineKeyboardButton('🤖 UᎮDΛTΞS 🤖', url='https://t.me/SMS_Zonee')
         ], [
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
@@ -687,7 +687,7 @@ async def auto_filter(client, msg, spoll=False):
 
     btn.insert(0,
         [
-            InlineKeyboardButton(text="⚡ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ⚡", url='https://t.me/+dpOuXZGYWbA3ZGQ1')
+            InlineKeyboardButton(text="⚡ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ⚡", url='https://www.instagram.com/reel/ClEi0V0hCl9/?igshid=YmMyMTA2M2Y=')
         ]
     )
 
