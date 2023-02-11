@@ -16,8 +16,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/MultiRacer/mrfilesharewithfilter",
-    "repository": "https://github.com/MultiRacer/mrfilesharewithfilter",
+    "website": "https://github.com/MultiRacer/smsfilterbot",
+    "repository": "https://github.com/MultiRacer/smsfilterbot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
