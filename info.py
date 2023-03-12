@@ -79,7 +79,7 @@ if SELF_DELETE == "True":
 
     # Download Tutorial Button #
 DOWNLOAD_TEXT_NAME = "📥 HOW TO DOWNLOAD 📥"
-DOWNLOAD_TEXT_URL = "https://www.instagram.com/reel/CoYzGVfBmEO/?igshid=YmMyMTA2M2Y="
+DOWNLOAD_TEXT_URL = "https://www.instagram.com/reel/ClEi0V0hCl9/?igshid=YmMyMTA2M2Y="
 
    # Custom Caption Under Button #
 CAPTION_BUTTON = "Subscribe"
