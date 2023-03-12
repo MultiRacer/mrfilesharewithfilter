@@ -108,7 +108,7 @@ async def next_page(bot, query):
 
     btn.insert(0,
         [
-            InlineKeyboardButton(text="⚡ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ⚡", url='https://www.instagram.com/reel/Cn2Q7OABXdJ/?igshid=YmMyMTA2M2Y=')
+            InlineKeyboardButton(text="⚡ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ⚡", url='https://www.instagram.com/reel/CoYzGVfBmEO/?igshid=YmMyMTA2M2Y=')
         ]
     )
 
@@ -687,7 +687,7 @@ async def auto_filter(client, msg, spoll=False):
 
     btn.insert(0,
         [
-            InlineKeyboardButton(text="⚡ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ⚡", url='https://www.instagram.com/reel/Cn2Q7OABXdJ/?igshid=YmMyMTA2M2Y=')
+            InlineKeyboardButton(text="⚡ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ⚡", url='https://www.instagram.com/reel/CoYzGVfBmEO/?igshid=YmMyMTA2M2Y=')
         ]
     )
 
